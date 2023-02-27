@@ -1,0 +1,11 @@
+axes.titlesize: 18
+axes.labelsize: 12
+legend.fontsize: 12
+font.size: 14
+lines.linewidth: 2
+xtick.labelsize: 10
+ytick.labelsize: 10
+font.family: sans-serif
+font.sans-serif: Liberation Sans
+pdf.fonttype: 42
+ps.fonttype: 42
